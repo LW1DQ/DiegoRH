@@ -47,5 +47,3 @@ network simulation, and machine learning.
 
 📚 [View my complete list of scientific publications](PUBLICATIONS.md)
 
-📚 **[View my complete list of scientific
-publications](PUBLICATIONS.md)**
