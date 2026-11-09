@@ -37,3 +37,13 @@ Scientific rigor, reproducibility, transparency, and evidence-based conclusions.
 
 - X: https://x.com/LW1DQ
 - GitHub: https://github.com/DiegoRH
+
+## Scientific Publications
+
+My research contributions include journal articles,
+book chapters, and conference papers focused on
+computer networks, IoT, routing protocols,
+network simulation, and machine learning.
+
+📚 **[View my complete list of scientific
+publications](PUBLICATIONS.md)**
