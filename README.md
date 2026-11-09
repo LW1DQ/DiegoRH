@@ -1,4 +1,4 @@
-# Diego R. R. Herlein
+# Diego R. Rodriguez Herlein
 
 ### Researcher | Lecturer | PhD Candidate in Computer Science
 
