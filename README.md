@@ -45,5 +45,7 @@ book chapters, and conference papers focused on
 computer networks, IoT, routing protocols,
 network simulation, and machine learning.
 
+📚 [View my complete list of scientific publications](PUBLICATIONS.md)
+
 📚 **[View my complete list of scientific
 publications](PUBLICATIONS.md)**
